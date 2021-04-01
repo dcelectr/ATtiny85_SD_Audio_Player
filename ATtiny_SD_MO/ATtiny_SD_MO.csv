@@ -1,0 +1,8 @@
+Reference, Quantity, Value, Footprint, Datasheet, P/N
+C1 C3 ,2,100nF,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,~,885012207011
+C2 C5 ,2,100uF,Capacitor_Tantalum_SMD:CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder,~,TPSC107M016R0200
+J1 ,1,Micro_SD_Card_Det,User_PCB_Libraries:Molex_1051620001_KiCad,https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1,1051620001
+J2 J3 J4 ,3,Conn_01x02_Male,Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical,~,N/A
+R1 ,1,4.7K,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,~,ERJ-6ENF4701V
+U1 ,1,AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5,https://www.diodes.com/assets/Datasheets/AP2112.pdf,NCP603SN330T1G
+U2 ,1,ATtiny85-20SU,Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm,http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf,ATTINY85-20SUR
